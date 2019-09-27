@@ -1,0 +1,11 @@
+C:\Users\svvgo\source\repos\AngNet002\AngNet002\bin\Debug\netcoreapp2.1\AngNet002.deps.json
+C:\Users\svvgo\source\repos\AngNet002\AngNet002\bin\Debug\netcoreapp2.1\AngNet002.runtimeconfig.json
+C:\Users\svvgo\source\repos\AngNet002\AngNet002\bin\Debug\netcoreapp2.1\AngNet002.runtimeconfig.dev.json
+C:\Users\svvgo\source\repos\AngNet002\AngNet002\bin\Debug\netcoreapp2.1\AngNet002.dll
+C:\Users\svvgo\source\repos\AngNet002\AngNet002\obj\Debug\netcoreapp2.1\AngNet002.csprojAssemblyReference.cache
+C:\Users\svvgo\source\repos\AngNet002\AngNet002\obj\Debug\netcoreapp2.1\AngNet002.csproj.CoreCompileInputs.cache
+C:\Users\svvgo\source\repos\AngNet002\AngNet002\obj\Debug\netcoreapp2.1\AngNet002.RazorAssemblyInfo.cache
+C:\Users\svvgo\source\repos\AngNet002\AngNet002\obj\Debug\netcoreapp2.1\AngNet002.RazorAssemblyInfo.cs
+C:\Users\svvgo\source\repos\AngNet002\AngNet002\obj\Debug\netcoreapp2.1\AngNet002.AssemblyInfoInputs.cache
+C:\Users\svvgo\source\repos\AngNet002\AngNet002\obj\Debug\netcoreapp2.1\AngNet002.AssemblyInfo.cs
+C:\Users\svvgo\source\repos\AngNet002\AngNet002\obj\Debug\netcoreapp2.1\AngNet002.RazorTargetAssemblyInfo.cache
